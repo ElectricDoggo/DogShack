@@ -1,3 +1,2 @@
-dontsend.txt
-dontsendtoo.txt
+
 smth.txt
